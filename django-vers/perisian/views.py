@@ -4,4 +4,4 @@ from django.shortcuts import render
 
 
 def perisian(request):
-    return render(request, 'perisian.html', {})
+    return render(request, 'perisian.min.html', {})
